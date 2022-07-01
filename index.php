@@ -7,7 +7,7 @@
 <meta charset="UTF-8"
         <title>Shawn2Free</title>
         <meta name="keywords" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
-        <meta property="og:title" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
+        <meta property="og:title" content="Easy4Free" />
         <meta property="og:description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta name="description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta name="twitter:card" content="/6954958_dressup247-anime-avatar.jpg">
