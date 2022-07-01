@@ -5,14 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="folder/favicon.ico" rel="icon" sizes="16x16" type="image/png" />
 <meta charset="UTF-8"
-        <title>Grig Giveaways</title>
+        <title>Shawn2Free</title>
         <meta name="keywords" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
-        <meta property="og:title" content="Grig Giveaways" />
+        <meta property="og:title" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta property="og:description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
-        <meta name="description" content="Grig's Giveaways" />
+        <meta name="description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta name="twitter:card" content="/6406937cv12d.jpg">
         <meta property="og:image" content="/6406937cv12d.jpg">                                 
-        <meta name="author" content="Grig" />
+        <meta name="author" content="Shawn" />
 </head>
 
 <body>
