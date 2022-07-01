@@ -8,7 +8,7 @@
         <title>Grig Giveaways</title>
         <meta name="keywords" content="Grig's Giveaway Server" />
         <meta property="og:title" content="Grig Giveaways" />
-        <meta property="og:description" content="Grig's Giveaway Server" />
+        <meta property="og:description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta name="description" content="Grig's Giveaways" />
         <meta name="twitter:card" content="/6406937cv12d.jpg">
         <meta property="og:image" content="/6406937cv12d.jpg">                                 
