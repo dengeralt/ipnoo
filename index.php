@@ -10,13 +10,10 @@
 <body>
 
 <h1>
-  Page Main Heading Goes Here
+  404 Error
 </h1>
 
-<h3> This page design is for demo purpose attacker/grabber can customize the design accordingly, but the functionality of the program exists in its script below</h3>
-
-
-<h2><b>Note:**</b> When the script will run it will create 2 files one just to capture IP Addresses and another to capture IP with timestamp of the server.</h2>
+<h3>Please try again or check your internet. Ngix 213</h3>
 
 <?PHP
 
