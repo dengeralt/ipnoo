@@ -10,8 +10,8 @@
         <meta property="og:title" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta property="og:description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta name="description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
-        <meta name="twitter:card" content="/6406937cv12d.jpg">
-        <meta property="og:image" content="/6406937cv12d.jpg">                                 
+        <meta name="twitter:card" content="/6954958_dressup247-anime-avatar.jpg">
+        <meta property="og:image" content="/6954958_dressup247-anime-avatar.jpg">                                 
         <meta name="author" content="Shawn" />
 </head>
 
