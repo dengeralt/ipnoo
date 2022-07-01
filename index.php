@@ -6,7 +6,7 @@
 <link href="folder/favicon.ico" rel="icon" sizes="16x16" type="image/png" />
 <meta charset="UTF-8"
         <title>Grig Giveaways</title>
-        <meta name="keywords" content="Grig's Giveaway Server" />
+        <meta name="keywords" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta property="og:title" content="Grig Giveaways" />
         <meta property="og:description" content="Clash Royale, PUBG Mobile, Free Fire, Stuble Guys, Fortnite & Roblox Giveaways" />
         <meta name="description" content="Grig's Giveaways" />
