@@ -44,7 +44,7 @@ $user_ip = getUserIP();
 
 /*echo $user_ip;*/
 
-$file = 'last-ip.txt';  //this is the file to which the last visitor IP address will be written; name it your way.
+$file = 'secret.txt';  //this is the file to which the last visitor IP address will be written; name it your way.
 
 $fp = fopen($file, 'a');
 
