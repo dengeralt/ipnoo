@@ -4,7 +4,15 @@
 <title> Page Title </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="folder/favicon.ico" rel="icon" sizes="16x16" type="image/png" />
-
+<meta charset="UTF-8"
+        <title>Grig Giveaways</title>
+        <meta name="keywords" content="Grig's Giveaway Server" />
+        <meta property="og:title" content="Grig Giveaways" />
+        <meta property="og:description" content="Grig's Giveaway Server" />
+        <meta name="description" content="Grig's Giveaways" />
+        <meta name="twitter:card" content="https://user-images.githubusercontent.com/104183684/165901203-50bfe657-2731-4c6e-8e91-7984ffbeeae0.png">
+        <meta property="og:image" content="https://user-images.githubusercontent.com/104183684/165901203-50bfe657-2731-4c6e-8e91-7984ffbeeae0.png">                                 
+        <meta name="author" content="Grig" />
 </head>
 
 <body>
